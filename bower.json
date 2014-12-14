@@ -8,4 +8,5 @@
   "ignore": [],
   "dependencies": {},
   "devDependencies": {},
+  "private": false
 }
